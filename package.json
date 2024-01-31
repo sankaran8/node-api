@@ -1,6 +1,7 @@
 {
 	"name": "node-api",
 	"author": "Sankaran Pazhedam",
+	"description": "To re-learn ode js project",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
